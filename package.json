@@ -1,5 +1,5 @@
 {
-    "name": "Scavenger Code-Node"
+    "name": "code-node"
     , "version": "1.0.0"
     , "description": ""
     , "main": ""
@@ -11,7 +11,7 @@
         , "prepare": "rimraf dist; sleep 1; NODE_ENV=production webpack --config webpack.config.client.babel.js"
     }
     , "keywords": []
-    , "author": "Nodejshouston"
+    , "author": ""
     , "license": "ISC"
     , "devDependencies": {}
     , "dependencies": {
