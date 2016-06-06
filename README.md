@@ -1,4 +1,4 @@
-<img style="width:100%;" src="/github-banner.png">
+<img style="width:100%;" src="/assets/github-banner.png">
 
 # [The Amazing JavaScript Race](http://www.nodejshouston.com)
 
@@ -22,11 +22,11 @@ We'd love for you to help us build The Amazing JavaScript Race. If you'd like to
 
 Also, to stay up-to-date on all NodeJS Houston related news and the community you should definitely [chat with us on Slack](http://chat.nodejshouston.com), [follow us on Twitter](https://twitter.com/nodejshouston), and check out our website at [NodeJS Houston](http://www.nodejshouston.com).
 
-<img style="width:100%;" src="/ajr1.png">
+<img style="width:100%;" src="/assets/ajr1.png">
 
-<img style="width:100%;" src="/ajr3.png">
+<img style="width:100%;" src="/assets/ajr3.png">
 
-<img style="width:100%;" src="/ajr4.png">
+<img style="width:100%;" src="/assets/ajr4.png">
 
 ## Milestone 1: Data Structure Scaffold?
 
