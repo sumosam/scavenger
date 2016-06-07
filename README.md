@@ -30,37 +30,37 @@ Also, to stay up-to-date on all NodeJS Houston related news and the community yo
 
 ## Milestone (MVP) 1:
 
-* [] Planning
-	* [] describe data structure for "users" (see wiki for user data models)
-	* [] describe data structure for "scavenger hunt"(see wiki for scavenger data models)
-* [] Client
-	* [] Main landing page designed out
-	* [] User Login page designed out
-		* [] Forgot Password component designed out
-		* [] Register an account component designed out
-* [] Server
-	* [] application scaffold
-		* [] ability to manage different roles
-		* [] logging
-		* [] sessions
-		* [] db-integretion
-		* [] db-autodeploy
-		* [] db-models scaffold
-	* [] APIs (see wiki for additional API requirements and documentation)
-		* [] user
-			* [] create (registration)
-			* [] change password (password reset)
-			* [] list based on criteria (administration)
-			* [] get user (returning profile data of one unique user)
-			* [] disable/enable
-			* [] update
-		* [] scavenger hunt
-			* [] create a new scavenger hunt
-			* [] list out all scavenger hunts
-			* [] return all data for one unique scavenger hunt
-			* [] change password
-			* [] disable/enable (canceled hunt)
-			* [] update a specific scavenger hunt
+* [ ] Planning
+	* [ ] describe data structure for "users" (see wiki for user data models)
+	* [ ] describe data structure for "scavenger hunt"(see wiki for scavenger data models)
+* [ ] Client
+	* [ ] Main landing page designed out
+	* [ ] User Login page designed out
+		* [ ] Forgot Password component designed out
+		* [ ] Register an account component designed out
+* [ ] Server
+	* [ ] application scaffold
+		* [ ] ability to manage different roles
+		* [ ] logging
+		* [ ] sessions
+		* [ ] db-integretion
+		* [ ] db-autodeploy
+		* [ ] db-models scaffold
+	* [ ] APIs (see wiki for additional API requirements and documentation)
+		* [ ] user
+			* [ ] create (registration)
+			* [ ] change password (password reset)
+			* [ ] list based on criteria (administration)
+			* [ ] get user (returning profile data of one unique user)
+			* [ ] disable/enable
+			* [ ] update
+		* [ ] scavenger hunt
+			* [ ] create a new scavenger hunt
+			* [ ] list out all scavenger hunts
+			* [ ] return all data for one unique scavenger hunt
+			* [ ] change password
+			* [ ] disable/enable (canceled hunt)
+			* [ ] update a specific scavenger hunt
 
 
 
