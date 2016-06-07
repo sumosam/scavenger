@@ -34,10 +34,17 @@ Also, to stay up-to-date on all NodeJS Houston related news and the community yo
 	* [ ] describe data structure for "users" (see wiki for user data models)
 	* [ ] describe data structure for "scavenger hunt"(see wiki for scavenger data models)
 * [ ] Client
-	* [ ] Main landing page designed out
-	* [ ] User Login page designed out
+	* [ ] Main landing page / logged in Dashboard designed out
+	* [ ] User Login Section
+		* [ ] User Login component designed out
 		* [ ] Forgot Password component designed out
 		* [ ] Register an account component designed out
+		* [ ] Edit profile component designed out
+	* [ ] Scavenger Section
+		* [ ] Component to list of all scavenger hunts available
+		* [ ] Creation of a new scavenger hunt component
+		* [ ] Component to view and edit (if they are an admin) a specific scavenger hunt
+		* [ ] Component to 'play through' a live scavenger hunt
 * [ ] Server
 	* [ ] application scaffold
 		* [ ] ability to manage different roles
